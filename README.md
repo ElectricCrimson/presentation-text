@@ -60,9 +60,9 @@ The directives are the Vue-specific syntax elements that can be used in componen
 Vue.js directives are a foundational component in the construction of dynamic and interactive web applications using Vue and are perfect for encapsulating shared functionality that can be used over and over throughout an app. They streamline DOM manipulation, simplify data binding, and offer solutions for a wide range of common use cases.
 
 Common directives include:
-    - `v-if`: Conditional rendering.
-    - `v-for`: Looping through arrays or objects.
-    - `v-bind`: Dynamically bind attributes or classes.
+    -`v-if`: Conditional rendering.
+    -`v-for`: Looping through arrays or objects.
+    -`v-bind`: Dynamically bind attributes or classes.
 Vue.js provides several built-in directives that allow you to manage rendering and binding in a declarative way. Let's look at three of the most commonly used directives:
 
 *1. `v-if` (Conditional Rendering)*
